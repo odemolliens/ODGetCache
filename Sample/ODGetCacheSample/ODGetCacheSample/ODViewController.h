@@ -8,6 +8,9 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ODViewController : UIViewController
+//WS Singleton
+#import <ODGetCache-iOS/ODSingWebService.h>
+
+@interface ODViewController : UIViewController<WebServiceDelegate>
 
 @end

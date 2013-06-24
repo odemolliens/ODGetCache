@@ -14,9 +14,6 @@
 //Request
 #import <ODGetCache-iOS/ODGETCacheRequest.h>
 
-//WS Singleton
-#import <ODGetCache-iOS/ODSingWebService.h>
-
 @interface ODViewController ()
 
 @end
