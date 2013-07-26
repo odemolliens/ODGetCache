@@ -1,9 +1,9 @@
 //
 //  WebService.m
-//  Wort
+//  
 //
 //  Created by Olivier Demolliens on 06/11/12.
-//  Copyright (c) 2012 neopixl. All rights reserved.
+//  Copyright (c) 2012 . All rights reserved.
 //
 
 #import "ODWebService.h"
